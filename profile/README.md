@@ -1,5 +1,5 @@
 <p align="center" style="text-align:center">
-	<img src="images/logos/logo.svg" width="200">
+	<img src="images/logos/logo.svg" width="300">
 </p>
 
 # IndieCloud
@@ -33,7 +33,7 @@ Welcome Screen
 <br>
 
 <p>
-	<a href="https://github.com/IndieSource/IndieChats" style="float:left">
+	<a href="https://github.com/IndieSource/IndieChats">
 		<img src="images/logos/indiechats.svg" width="150">
 	</a>
 	<h2>IndieChats</h2>
@@ -43,72 +43,72 @@ Welcome Screen
 <p>
 	<a href="https://github.com/IndieSource/IndieMaps">
 		<img src="images/logos/indiemaps.svg" width="150">
-		<b>IndieMaps</b>
 	</a>
+	<h2>IndieMaps</h2>
 	<p>IndieMaps is a cloud-based geospatial image and data storage, management, and sharing system. Best of all, you can run it on your own server.</p>
 </p>
 
 <p>
 	<a href="https://github.com/IndieSource/IndieData">
 		<img src="images/logos/indiedata.svg" width="150">
-		<b>IndieData</b>
 	</a>
+	<h2>IndieData</h2>
 	<p>IndieData is a cloud-based file storage, management, and sharing system. IndieData makes sharing your data simple. Best of all, you can run it on your own server.</p>
 </p>
 
 <p>
 	<a href="https://github.com/IndieSource/IndiePhotos">
 		<img src="images/logos/indiephotos.svg" width="150">
-		<b>IndiePhotos</b>
 	</a>
+	<h2>IndiePhotos</h2>
 	<p>IndiePhotos is a cloud-based photo management and sharing system that makes organizing and sharing your photos easy. Best of all, you can run on your own server!</p>
 </p>
 
 <p>
 	<a href="https://github.com/IndieSource/IndieCoder">
 		<img src="images/logos/indiecoder.svg" width="150">
-		<b>IndieCoder</b>
 	</a>
+	<h2>IndieCoder</h2>
 	<p>IndieCoder is a cloud-based code storage, management, and sharing system. Best of all, you can run it on your own server!</p>
 </p>
 
 <p>
 	<a href="https://github.com/IndieSource/IndieFiles">
 		<img src="images/logos/indiefiles.svg" width="150">
-		<b>IndieFiles</b>
 	</a>
+	<h2>IndieFiles</h2>
 	<p>IndieFiles is a cloud-based file storage, management, and sharing system. IndieFiles makes file sharing easy. Best of all, you can run it on your own server.</p>
 </p>
 
 <p>
 	<a href="https://github.com/IndieSource/IndieBuckets">
 		<img src="images/logos/indiebuckets.svg" width="150">
-		<b>IndieBuckets</b>
 	</a>
+	<h2>IndieBuckets</h2>
 	<p>IndieBuckets is a cloud-based web interface for managing S3 data. It combines the capacity of S3 with the familiar look and feel of your desktop or mobile OS. Best of all, you can run it on your own server.</p>
 </p>
 
 <p>
 	<a href="https://github.com/IndieSource/IndieVideo">
 		<img src="images/logos/indievideo.svg" width="150">
-		<b>IndieVideo</b>
 	</a>
+	<h2>IndieVideo</h2>
 	<p>IndieVideo is a cloud-based video storage, management, and sharing system. You love your videos. Now you can love your video platform. Best of all, you can run it on your own server.</p>
 </p>
 
 <p>
 	<a href="https://github.com/IndieSource/IndieDreams">
 		<img src="images/logos/indiedreams.svg" width="150">
-		<b>IndieDreams</b>
 	</a>
+	<h2>IndieDreams</h2>
 	<p>IndieDreams is a cloud-based AI image generation platform. Using simple text prompts, you can visualize and share virtually anything that you can dream of.</p>
 </p>
 
 <p>
 	<a href="https://github.com/IndieSource/IndieAudio">
 		<img src="images/logos/indieaudio.svg" width="150">
-		<b>IndieAudio</b>
 	</a>
+	<h2>IndieAudio</h2>
 	<p>IndieAudio is a cloud-based audio storage, management, and sharing system. You love your music. Now you can love your music platform. Best of all, you can run it on your own server.</p>
 </p>
 
