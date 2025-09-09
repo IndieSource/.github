@@ -33,7 +33,7 @@ Welcome Screen
 <br>
 
 <p>
-	<a href="https://github.com/IndieSource/IndieChats" style="text-align:center">
+	<a href="https://github.com/IndieSource/IndieChats" style="float:left">
 		<img src="images/logos/indiechats.svg" width="150">
 	</a>
 	<h2>IndieChats</h2>
