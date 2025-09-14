@@ -15,7 +15,7 @@ IndieCloud can help you to upload, manage, view, and share your collection of fi
 - Secure
 
 ![Screen Shot](images/screen-shots/welcome.png)
-Welcome Screen
+*Welcome*
 
 ## Which IndieCloud Is Right For You?
 
